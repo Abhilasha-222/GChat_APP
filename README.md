@@ -1,6 +1,6 @@
 # GChat(Chat_App)
 
-A new Flutter project.
+Simple, Descent & Feature Rich Chatting Application.
 
 ## Getting Started
 
