@@ -2,6 +2,7 @@
 
 ### Simple, Descent & Feature Rich Chatting Application.
 ### Some Screen Shots(Actual App Even Looks Better 😃 :)
+![alt text](file:///D:/flutter_projects/gail_chat_app/screenshots/Side%20Drawer%20functionality.png)
 
 ## Features 👇:
  * Show Only Known users or contacts
