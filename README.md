@@ -2,6 +2,7 @@
 
 ### Simple, Descent & Feature Rich Chatting Application.
 ### Some Screen Shots(Actual App Even Looks Better 😃 :)
+
 ## Features 👇:
  * Show Only Known users or contacts
  * Real-Time Messaging (with Firebase)
