@@ -1,4 +1,4 @@
-# gail_chat_app
+# GChat(Chat_App)
 
 A new Flutter project.
 
