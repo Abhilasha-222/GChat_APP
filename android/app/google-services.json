@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17074834089",
+    "project_id": "gchat-app-6b0e3",
+    "storage_bucket": "gchat-app-6b0e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17074834089:android:6191e7a980dc24858a77b8",
+        "android_client_info": {
+          "package_name": "com.example.gail_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17074834089-0qq9qf3ttddprh3v4dbf5761afgr9fds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj48HyHFeziSzDH1u7NMjD1XaS5hb4QpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17074834089-0qq9qf3ttddprh3v4dbf5761afgr9fds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
