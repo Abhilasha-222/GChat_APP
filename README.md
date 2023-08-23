@@ -1,21 +1,18 @@
 # GChat(Chat_App)
 
-## Simple, Descent & Feature Rich Chatting Application.
-
-## Some Screen Shots(Actual App Even Looks Better 😃 :)
-
+### Simple, Descent & Feature Rich Chatting Application.
+### Some Screen Shots(Actual App Even Looks Better 😃 :)
 ## Features 👇:
- - Show Only Known users or contacts
+ * Show Only Known users or contacts
  * Real-Time Messaging (with Firebase)
- * 
+ * Google Sign-In (no Account or Mobile NUmber needed)
+ * Adding User using the Email ID
+ * Simple User Profile (with Phot, about, Last-seen, Created-at)
+ * Message Read Status
+ * Message Delete & Edit Feature
+ * Message Notification (Push Notification)
+ * Descent UI with New Material Widgets
+ * And Much More...
+  
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
