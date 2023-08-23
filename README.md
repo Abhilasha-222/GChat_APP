@@ -1,8 +1,13 @@
 # GChat(Chat_App)
 
-Simple, Descent & Feature Rich Chatting Application.
+## Simple, Descent & Feature Rich Chatting Application.
 
-## Getting Started
+## Some Screen Shots(Actual App Even Looks Better 😃 :)
+
+## Features 👇:
+ - Show Only Known users or contacts
+ * Real-Time Messaging (with Firebase)
+ * 
 
 This project is a starting point for a Flutter application.
 
