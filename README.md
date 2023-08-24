@@ -2,7 +2,8 @@
 
 ### Simple, Descent & Feature Rich Chatting Application.
 ### Some Screen Shots(Actual App Even Looks Better 😃 :)
-  ![image]([D:\flutter_projects\gail_chat_app\screenshots](https://github.com/Abhilasha-222/GChat_APP/blob/main/screenshots/APP%20Icon.png))
+  ![APP Icon](https://github.com/Abhilasha-222/GChat_APP/assets/94596235/09601f7c-bd6e-494d-893f-bfa75da4563f)
+
 
 ## Features 👇:
  * Show Only Known users or contacts
