@@ -2,7 +2,7 @@
 
 ### Simple, Descent & Feature Rich Chatting Application.
 ### Some Screen Shots(Actual App Even Looks Better 😃 :)
-
+  ![image](D:\flutter_projects\gail_chat_app\screenshots)
 
 ## Features 👇:
  * Show Only Known users or contacts
