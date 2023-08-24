@@ -2,7 +2,7 @@
 
 ### Simple, Descent & Feature Rich Chatting Application.
 ### Some Screen Shots(Actual App Even Looks Better 😃 :)
-![App icons2](https://github.com/Abhilasha-222/GChat_APP/assets/94596235/c2950681-4d90-46d1-bcc8-9e35a8d31eb1)
+![App icons2](https://github.com/Abhilasha-222/GChat_APP/assets/94596235/14a1abfa-0749-40f2-87d0-c249e3faf650)
 ![changed profile](https://github.com/Abhilasha-222/GChat_APP/assets/94596235/54a6aa87-fcc2-4456-84f8-fdc1ad6d85b6)
 
 ## Features 👇:
